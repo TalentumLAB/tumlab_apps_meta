@@ -6,7 +6,7 @@ const addApps = [
     children: [
       {
         order: 1,
-        thumbnail: "./img/moodle/regional.png",
+        thumbnail: "./img/tumlab/tumlab_thumbnail.png",
         is_show: true,
         title: "./img/tumlab/tumlab_title.png",
         cover: "./img/tumlab/tumlab_cover.png",
@@ -17,7 +17,7 @@ const addApps = [
       {
         order: 2,
         thumbnail: "./img/moodle/regional.png",
-        is_show: true,
+        is_show: false,
         title: "./img/sistema_de_informacion/sistema_de_informacion_title.svg",
         cover: "./img/sistema_de_informacion/sistema_de_informacion_cover.png",
         description:
